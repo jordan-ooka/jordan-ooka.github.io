@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "Jordan Ooka",
         "url": "https://www.linkedin.com/in/jordanooka/"
-      },
-      {
-        "network": "techhui",
-        "username": "Jordan Ooka",
-        "url": "http://www.techhui.com/profile/JordanOoka"
       }
     ]
   },
@@ -115,18 +110,7 @@
     }
   ],
   "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
+  
   ],
   "references": [
     {
