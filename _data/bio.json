@@ -29,7 +29,7 @@
         "network": "techhui",
         "username": "Jordan Ooka",
         "url": "http://www.techhui.com/profile/JordanOoka"
-      },
+      }
     ]
   },
   "interests": [
@@ -68,7 +68,7 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "g++",
+        "g++"
       ]
     }
   ],
