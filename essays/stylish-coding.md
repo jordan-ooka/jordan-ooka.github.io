@@ -39,4 +39,4 @@ function foo2() {
 ```
 The first function is valid but how easy is it for you to tell which things are in which loops? It's difficult to read and identify things. The second function is more organized and you can easily tell what belongs where.
 ### Learning 
-Coding standards are a great way to learn programming. 
+Coding standards are a great way to learn programming. They make the code easier to read and easier for people to understand. It is easier to learn and understand things if the content is not different everytime you see it. If programmers follow a common style, then they can teach it to other programmers while they can also understand what they are doing. I think if there was a universal coding style, that would be great to implement so that everyone can be on the same page.
