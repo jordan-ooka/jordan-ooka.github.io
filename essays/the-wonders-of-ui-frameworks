@@ -1,10 +1,11 @@
 ---
 layout: essay
 type: essay
-title: StackedOverflow, The Good and the Bad
-date: 2017-09-07
+title: The Wonders of UI Frameworks
+date: 2017-10-6
 labels:
-  - StackedOverflow
-  - Good Questions
-  - Bad Questions
+  - UI Frameworks
+  - Semantic UI
+  - HTML
+  - CSS
 ---
