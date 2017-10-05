@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: StackedOverflow The Good and the Bad
+title: StackedOverflow, The Good and the Bad
 date: 2017-09-07
 labels:
   - StackedOverflow
