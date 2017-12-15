@@ -24,3 +24,8 @@ We created this application as a team so we all had different parts in the creat
 <img class=" ui image" src="../images/admin2.png">
 
 You can view our code here <a href="https://github.com/uhcommunity/Community">Community</a>
+
+## What I Learned
+This project gave me some real experience working on a program in a group. There is a lot of communication involved and the smallest miscommunication can create conflicts within the code. There were many times where that happened because of our lack of communication. It is also a good idea to plan ahead before you start to code. We made some rough design but we did not think how we were going to do the actual programming and we ended up finding errors in our designs that could have been avoided if we spent more time reviewing the design. 
+
+
