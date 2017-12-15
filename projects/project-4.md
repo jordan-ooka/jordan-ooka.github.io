@@ -21,4 +21,4 @@ Community is our app that we created so UH Manoa students can search for their c
 ## My contribution 
 We created this application as a team so we all had different parts in the creation of it. The parts that I added were the collection for club and the club admin page. 
 
-< img src="../images/admin2.png">
+<img class=" ui image" src="../images/admin2.png">
