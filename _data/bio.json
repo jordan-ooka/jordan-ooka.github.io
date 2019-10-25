@@ -79,6 +79,12 @@
       "endDate": "2019-12-21",
       "gpa": "3.47",
       "courses": [
+        "Operating Systems",
+        "Databases",
+        "Algorithms",
+        "Programming Language Theory",
+        "Calculus",
+        "Data Networks"
       ]
     }
   ],
