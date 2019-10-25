@@ -36,12 +36,12 @@
       ]
     },
     {
-      "name": "robotics",
+      "name": "software development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "learning new skills",
       "keywords": [
       ]
     }
@@ -52,8 +52,11 @@
       "level": "",
       "keywords": [
         "C",
+        "Python",
         "C++",
-        "Java"
+        "Java",
+        "Javascript"
+        
      
       ]
     },
@@ -70,11 +73,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
+      "area": "Computer Science (expected Fall, 2019)",
       "studyType": "B.S.",
       "startDate": "2015-08-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2019-12-21",
+      "gpa": "3.47",
       "courses": [
       ]
     }
@@ -85,10 +88,12 @@
       "position": "Record Clerk",
       "website": "",
       "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "",
+      "endDate": "2019-12-21",
+      "summary": "Worked as a records assistant in the transcripts department for the UH Manoa Registrar.",
       "highlights": [
-        "Print transcripts and mail them"
+        "Printed transcripts and mailed them to requested destinations.",
+        "Answered phone calls regarding transcript queries.",
+        "Organized confidential documents."
        
       ]
     },
@@ -101,16 +106,13 @@
       "website": "",
       "position": "Cafe server",
       "startDate": "2016-04-08",
-      "endDate": "Present",
-      "summary": "",
+      "endDate": "2018-04-08",
+      "summary": "Volunteered at the Cosplay Cafe department at a local convention called Kawaii Kon.",
       "highlights": [
-        "Cosplay Cafe",
-        "Server"
+        "Worked as a server taking food and drink orders.",
+        "Entertained guests with conversation and games."
       ]
     }
-  ],
-  "awards": [
-  
   ],
   "references": [
     {
