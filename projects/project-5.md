@@ -12,11 +12,16 @@ labels:
   - HACC
 summary: In 2018, A group of people and I created a waste audit web app called OWO
 ---
-## ICS 314 Project
-In the 2017 Fall semester I took a class at the University of Hawaii at Manoa. It was called ICS 314 Software engineering. At the end of the semester I had to create a web application project with some of my classmates. After a few weeks we created our app called Community.
+## HACC
+In the 2018 I participated in the Hawaii Annual Code Challenge. This hackathon was a multiple week long event in which different groups come together to create apps to fufill the needs of specific challenges that are presented. 
 
-## What is Community?
-Community is our app that we created so UH Manoa students can search for their clubs online using this app. The way that clubs are displayed at UH is on a giant Excel sheet which is not the best for the user to use. Our app allows students make a profile, view clubs, like clubs, edit clubs, and view other profiles to see who likes what clubs. 
+## What is OWO?
+OWO is an app that my group and I created to solve the challenge issued by the University of Hawaii Office of Sustainability. Their challenge was to create an app to aid them in auditing trash at special trash audit events. Originally the volunteers at these events had to calculate the number of trash per trash bag by hand. Our app converted that system from a handwritten one to a digitalized one.
 
 ## My contribution 
-We created this application as a team so we all had different parts in the creation of it. The parts that I added were the collection for club and the club admin page. 
+My main contribution to the app was to create the database and the functions to allow users to submit the audit data to the database. 
+
+You can view our code here <a href="https://github.com/HACC2018/OWO">OWO</a>
+
+## What I Learned
+This was my first experience with Google Firebase. I learned a more on how to work with databases for webapps, but I think I need more experience to use it comfortably. 
