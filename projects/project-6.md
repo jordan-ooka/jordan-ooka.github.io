@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/yeelight.png
-title: Community
+title: Hoala
 permalink: projects/hoala
 date: 2019
 labels:
